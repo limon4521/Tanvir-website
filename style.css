@@ -1,4 +1,32 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
 p{
-    color: blue;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.tanvir_image{
+    height: 100%;
+    width: 100%;
+}
+
+.div_background1{
+    background-color: rgb(0, 204, 255);
+}
+.div_background2{
+    background-color: rgb(243, 204, 8);
+}
+.gallary{
+    background-color: rgb(0, 255, 200);
+    padding:20px 20px 20px 20px;
     
 }
