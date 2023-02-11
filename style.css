@@ -5,12 +5,23 @@ h1{
 }
 h2{
     font-family: 'Poppins', sans-serif;
-    font-size: 50px;
+    font-size: 50px;  
+}
+h3{
+    font-family: 'Poppins', sans-serif;
 }
 p{
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+   
 }
 .Tanvir{
 color: orange;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+section{
+    display: ;
+    padding-left: 3%;
 }
