@@ -35,8 +35,5 @@ section{
     width: 100%;
 }
 .button{
-   background-color: blue;
-   color: white;
-   height: 35px;
-   width: 100px;
+    text-decoration: non;
 }
